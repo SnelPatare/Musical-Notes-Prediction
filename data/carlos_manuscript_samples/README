@@ -1,0 +1,1 @@
+We are labeling examples using the same labels that are present in the MUSICMA++ dataset. Since our data is so limited we have very few examples and many, many classes are missing entirely. It's not ideal at all but it's the best we've got right now.
